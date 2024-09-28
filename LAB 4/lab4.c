@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define NUM_ITERATIONS 10 // Number of iterations for the loop
-#define NUM_SECTIONS 3    // Number of sections (adjusted to match the number of sections defined)
+#define NUM_ITERATIONS 10
+#define NUM_SECTIONS 3
 
 // Function to demonstrate different scheduling strategies
 void schedule_demo() {
